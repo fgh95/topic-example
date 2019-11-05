@@ -5,16 +5,12 @@ Perhaps you think none of these adjectives go with the term "chess", and you'd r
 define it as a game. If that's the case, why do you think it can't be considered any of the above? 
 
 
-
-
-
 Leave your thoughts here:
 
 -
 -
 -
 
-<<<<<<< HEAD
 There is no point in this
 
 The reasons are:
@@ -22,7 +18,4 @@ The reasons are:
 1. Nobody is interested in this question
 2. There is no useful endpoint on answering this question
 3. I'd rather do sth more useful
-=======
->>>>>>> parent of e6129dc... MISTAKE
-
 
