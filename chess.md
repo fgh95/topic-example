@@ -13,3 +13,4 @@ Leave your thoughts here:
 - George: Chess is good
 - Bobby fisher against the world is an interesting film
 - Ferran: Hello, Chess is good
+- George: Changing via the website
