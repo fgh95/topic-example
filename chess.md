@@ -5,8 +5,6 @@ Perhaps you think none of these adjectives go with the term "chess", and you'd r
 define it as a game. If that's the case, why do you think it can't be considered any of the above? 
 
 
-a
-
 
 Leave your thoughts here:
 
