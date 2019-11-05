@@ -11,6 +11,12 @@ Leave your thoughts here:
 -
 -
 
-There is no point in this 
+There is no point in this
+
+The reasons are:
+
+1. Nobody is interested in this question
+2. There is no useful endpoint on answering this question
+3. I'd rather do sth more useful
 
 
