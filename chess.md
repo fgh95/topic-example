@@ -8,7 +8,7 @@ define it as a game. If that's the case, why do you think it can't be considered
 
 Leave your thoughts here:
 
--
+- Chess is good
 -
 -
 
