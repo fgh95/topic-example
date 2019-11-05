@@ -12,5 +12,5 @@ Leave your thoughts here:
 - Tiejun: I don't like anything but Hollo Knight. But it's too hard.
 - George: Chess is good
 - Bobby fisher against the world is an interesting film
-- Ferran: Hello, Chess is good
+- Ferran: Hello world
 - George: Changing via the website
