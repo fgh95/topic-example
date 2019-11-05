@@ -1,4 +1,4 @@
-# Chess: science, sport or art?
+#Chess: science, sport or art?
 
 If you were to choose one adjective for chess which one would you choose? 
 Perhaps you think none of these adjectives go with the term "chess", and you'd rather just 
@@ -8,12 +8,9 @@ define it as a game. If that's the case, why do you think it can't be considered
 
 Leave your thoughts here:
 
-HEAD
-- My mind is swole as hell
-- Chess is good
-- I don't like anything but Holloknight.
-- Chess is good
+- Ben: My mind is swole as hell
+- Tiejun: I don't like anything but Holloknight.
 
--
-
-
+- George: Chess is good
+- Bobby fisher against the world is an interesting film
+- Ferran: Hello, Chess is good
