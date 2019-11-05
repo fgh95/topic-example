@@ -9,7 +9,7 @@ define it as a game. If that's the case, why do you think it can't be considered
 Leave your thoughts here:
 
 - Ben: My mind is swole as hell
-- Tiejun: I don't like anything but Holloknight.
+- Tiejun: I don't like anything but Hollo Knight. But it's too hard.
 - George: Chess is good
 - Bobby fisher against the world is an interesting film
 - Ferran: Hello, Chess is good
