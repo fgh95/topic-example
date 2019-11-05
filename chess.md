@@ -15,9 +15,3 @@ Leave your thoughts here:
 -
 
 
-The reasons are:
-
-1. Nobody is interested in this question
-2. There is no useful endpoint on answering this question
-3. I'd rather do sth more useful
-
