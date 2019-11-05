@@ -8,14 +8,12 @@ define it as a game. If that's the case, why do you think it can't be considered
 
 Leave your thoughts here:
 
-<<<<<<< HEAD
 I don't like anything but Holloknight.
 
 -
 =======
 - Chess is good
->>>>>>> 06376e743e37d3da17035aec513244ede27f7873
--
+
 -
 
 
