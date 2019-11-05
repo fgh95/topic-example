@@ -10,7 +10,6 @@ Leave your thoughts here:
 
 - Ben: My mind is swole as hell
 - Tiejun: I don't like anything but Holloknight.
-
 - George: Chess is good
 - Bobby fisher against the world is an interesting film
 - Ferran: Hello, Chess is good
