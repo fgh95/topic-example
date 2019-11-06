@@ -1,4 +1,5 @@
 import copy
+import random
 
 class Dungeon(object):
 
@@ -7,13 +8,13 @@ class Dungeon(object):
 		self.adventurer = adventurer
 		self.troll = troll
 		self.network = network
-	
 
-   	def update_dungeon(self):
-   		self.adventurer=random_move(self.network, self.adventurer)
-    	self.troll=random_move(self.network, self.troll)
 
-    def outcome(self):
+	def update_dungeon(self):
+		self.adventurer=random_move(self.network, self.adventurer)
+		self.troll=random_move(self.network, self.troll)
+
+	def outcome(self):
 	    if self.adventurer==self.troll:
 	        return -1
 	    if self.adventurer in self.treasure:
@@ -30,8 +31,6 @@ class Dungeon(object):
 	        update_dungeon(dungeon)
 	    # don't run forever, return 0 (e.g. if there is no treasure and the troll can't reach the adventurer)
 	    return result
-
-
 
 
 def random_move(network, current_loc):
