@@ -14,6 +14,6 @@ Leave your thoughts here:
 - Bobby fisher against the world is an interesting film
 - Ferran: Hello world
 - George: Changing via the website
-
+- Mishka: Chess is good for training machines be intelligent
 
 - Tiejun: I just forked ya project!
