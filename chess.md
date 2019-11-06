@@ -14,4 +14,6 @@ Leave your thoughts here:
 - Mishka: Chess is good for training machines be intelligent
 
 - Tiejun: I just forked ya project!
+
 - George: This is NOT enlightening!
+- PLease eat your cookies
