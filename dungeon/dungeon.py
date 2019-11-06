@@ -1,25 +1,27 @@
+import copy
+
 class Dungeon(object):
 
-	def __init__(self):
+	def __init__(self,treasure,adventurer,troll,network):
+		self.treasure = treasure
+		self.adventurer = adventurer
+		self.troll = troll
+		self.network = network
 	
 
-	def random_move(network, current_loc):
-    	targets=network[current_loc]
-   		return random.choice(targets)
+   	def update_dungeon(self):
+   		self.adventurer=random_move(self.network, self.adventurer)
+    	self.troll=random_move(self.network, self.troll)
 
-   	def update_dungeon(dungeon):
-   		dungeon['adventurer']=random_move(dungeon['network'], dungeon['adventurer'])
-    	dungeon['troll']=random_move(dungeon['network'], dungeon['troll'])
-
-    def outcome(dungeon):
-	    if dungeon['adventurer']==dungeon['troll']:
+    def outcome(self):
+	    if self.adventurer==self.troll:
 	        return -1
-	    if dungeon['adventurer'] in dungeon['treasure']:
+	    if self.adventurer in self.treasure:
 	        return 1
 	    return 0
 
-	def run_to_result(dungeon):
-	    dungeon=copy.deepcopy(dungeon)
+	def run_to_result(self):
+	    dungeon=copy.deepcopy(self)
 	    max_steps=1000
 	    for _ in range(max_steps):
 	        result= outcome(dungeon)
@@ -29,12 +31,20 @@ class Dungeon(object):
 	    # don't run forever, return 0 (e.g. if there is no treasure and the troll can't reach the adventurer)
 	    return result
 
-	def success_chance(dungeon):
-	    trials=10000
-	    successes=0
-	    for _ in range(trials):
-	        outcome = run_to_result(dungeon)
-	        if outcome == 1:
-	            successes+=1
-	    success_fraction = successes/trials
-	    return success_fraction
+
+
+
+def random_move(network, current_loc):
+	targets=network[current_loc]
+	return random.choice(targets)
+
+
+def success_chance(dungeon):
+    trials=10000
+    successes=0
+    for _ in range(trials):
+        outcome = run_to_result(dungeon)
+        if outcome == 1:
+            successes+=1
+    success_fraction = successes/trials
+    return success_fraction
