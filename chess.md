@@ -1,4 +1,4 @@
-#Chess: science, sport or art?
+##Chess: science, sport or art?
 hi
 
 If you were to choose one adjective for chess which one would you choose? 
@@ -18,3 +18,4 @@ Leave your thoughts here:
 - Mishka: Chess is good for training machines be intelligent
 
 - Tiejun: I just forked ya project!
+- George: This is NOT enlightening!
