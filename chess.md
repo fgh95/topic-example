@@ -1,4 +1,5 @@
 #Chess: science, sport or art?
+hi
 
 If you were to choose one adjective for chess which one would you choose? 
 Perhaps you think none of these adjectives go with the term "chess", and you'd rather just 
