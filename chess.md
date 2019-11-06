@@ -1,4 +1,4 @@
-
+HEY I JUST WANT TO PARTICIPATE TOO
 #Is chess any fun?
 
 I just changed the question to adapt it to people's comments
