@@ -1,3 +1,4 @@
+
 #Is chess any fun?
 
 I just changed the question to adapt it to people's comments
@@ -13,3 +14,4 @@ Leave your thoughts here:
 - Mishka: Chess is good for training machines be intelligent
 
 - Tiejun: I just forked ya project!
+- George: This is NOT enlightening!
